@@ -12,7 +12,7 @@
 
 ###
 
-<h5 align="left">Formado no Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas por Escola Estadual de Educação profissional, one desenvolvi sólida base em programação, análise de código, desenvolvimento web e criação de pequenos projetos e jogos.</h5>
+<h5 align="left">Formado no Ensino Médio Técnico em Análise e Desenvolvimento de Sistemas por Escola Estadual de Educação profissional, onde desenvolvi sólida base em programação, análise de código, desenvolvimento web e criação de pequenos projetos e jogos.</h5>
 
 ###
 
