@@ -36,7 +36,7 @@
 
 ###
 
-<h5 align="left">Sou dedicado, resiliente e orientado a crescimento a longo praz. Atualmente me preparo tanto para oportunidades acadêmicas (pesquisa e iniciação cientifica) quanto para concursos na área de TI.</h5>
+<h5 align="left">Sou dedicado, resiliente e orientado a crescimento a longo prazo. Atualmente me preparo tanto para oportunidades acadêmicas (pesquisa e iniciação cientifica) quanto para concursos na área de TI.</h5>
 
 ###
 
